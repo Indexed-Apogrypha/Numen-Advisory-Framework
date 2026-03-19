@@ -1,0 +1,47 @@
+**NUMEN**
+
+**Meeting Summary: Framework Naming**
+
+**Date: **March 19, 2026
+
+**Problem: **Select a compelling, ownable name for the tarot advisory system framework.
+
+**Roster: **Emperor, Magician, Fool, Star, Hermit
+
+# Key Decisions
+
+- **Framework name: Numen. **Latin for “the divine will or animating spirit of a thing.” Selected unanimously over Arcana and Divinator.
+
+- **Arcana rejected **despite initial unanimous selection. The team self-corrected after user pushback revealed premature convergence. Arcana names the components (the cards); Numen names the emergent intelligence (the collective).
+
+- **Divinator rejected. **Implies a single agent rather than the collaborative multi-persona architecture. At 9 letters, harder to recall. Terminator phonetic echo introduces unintended tone.
+
+# Discussion Highlights
+
+The session began with rapid convergence on Arcana, which passed all initial tests: conversational flow, single-word elegance, and cultural recognition. All five advisors ranked it first. However, the user correctly identified that the team had not explored the space adequately and introduced two new candidates: Divinator and Numen.
+
+Emperor flagged the team’s own rigidity failure mode, reopening Phase 2. Magician framed the three candidates across a tonal spectrum: Divinator as a power tool, Numen as a temple, Arcana as balanced. Fool applied the “say it out loud” test and shifted the room when he articulated the core distinction: Arcana describes *what the system is made of*; Numen describes *what it is*.
+
+Hermit provided the etymological grounding that sealed the decision: numen in Roman religion was the animating intelligence presiding over a place or endeavor — a precise metaphor for a multi-persona advisory system. Star confirmed Numen’s namespace is effectively unclaimed in the software space, giving it dominant searchability.
+
+# Unresolved Disagreements
+
+None. Unanimous recommendation after revision.
+
+# Action Items
+
+| **#** | **Action** | **Owner** |
+| --- | --- | --- |
+| 1 | Rename skill folder and SKILL.md title from “Tarot Advisory System” to “Numen” | User + Claude |
+| 2 | Update React dashboard branding (title, tagline, footer) to Numen | User + Claude |
+| 3 | Select tagline from candidates: “The Collective Intelligence,” “15 Minds. One Recommendation,” or “Summon Your Advisors” | User |
+
+# Team Recommendation
+
+Adopt **Numen** as the permanent name for the advisory framework. The name captures the system’s core identity — an animating collective intelligence composed of specialist advisors — in five letters with Latin roots, strong searchability, and zero namespace conflicts in the software space.
+
+# Revision History
+
+- **Revision 1: **User pushed back on initial Arcana recommendation, noting unexplored candidates. Introduced Divinator and Numen. Phase 2 reopened. Team self-flagged rigidity failure mode. After full evaluation, unanimous shift to Numen. Original recommendation (Arcana) preserved as second choice.
+
+*NUMEN — The Collective Intelligence*
